@@ -1,8 +1,5 @@
 Hi, my first file in this repo
 Hi, my first file in this repo
 Hi, my first file in this repo
-Hi, my first file in this repo
-Hi, my first file in this repo
-Hi, my first file in this repo
-Hi, my first file in this repo
-Hi, my first file in this repo
+EDITED IN GITHUB 
+LET US SEE ABOVE LINE IN LOCAL REPO
